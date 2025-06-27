@@ -1,2 +1,7 @@
-use these however you want but if you want to credit me for some reson either credit me as Blackbelt_Mfer or idkwhattoput-code
-i will keep making more if you want diffrent scripts msg me on discord (Blackbelt_Mfer) 
+## Usage & Credits
+
+Feel free to use these scripts however you like!  
+If you’d like to give credit, please use either **Blackbelt_Mfer** or **idkwhattoput-code**.
+
+I’ll keep adding more scripts.  
+If you want a specific script or have requests, message me on Discord (**Blackbelt_Mfer**).
